@@ -6,8 +6,8 @@
 
 **Elliott Spira** - Code @ GorillaStack
 
-- Twitter: [@ElliottSpira](https://twitter.com/ElliottSpira)
-- GitHub: [@em0ney](https://github.com/em0ney)
+- Twitter: [@ElliottSpira](https://twitter.com/ElliottSpira) | [@GorillaStack](https://twitter.com/GorillaStack)
+- GitHub: [@em0ney](https://github.com/em0ney) | [@GorillaStack](https://github.com/GorillaStack)
 - Website: [gorillastack.com](https://gorillastack.com)
 
 ### Background
@@ -20,6 +20,7 @@ Resources:
 - GorillaStack Blog: [GS Blog](http://blog.gorillastack.com/serverless-hipchat-connect-boilerplate-by-gorillastack/?utm_content=buffer0a501&utm_medium=social&utm_source=github.com&utm_campaign=buffer)
 - Atlassian Blog: [developer.atlassian](https://developer.atlassian.com/blog/2016/06/gorillastack-serverless-hipchat-connect/)
 - Youtube: [Getting Started Screencast](https://www.youtube.com/watch?v=TdM1QiEvOeQ)
+- Meetup Link: [Sydney Serverless Meetup 2](http://www.meetup.com/Sydney-Serverless-Meetup-Group/events/232020422/)
 
 ### Jobs
 
