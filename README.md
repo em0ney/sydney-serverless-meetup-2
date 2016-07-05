@@ -21,6 +21,7 @@ Resources:
 - Atlassian Blog: [developer.atlassian](https://developer.atlassian.com/blog/2016/06/gorillastack-serverless-hipchat-connect/)
 - Youtube: [Getting Started Screencast](https://www.youtube.com/watch?v=TdM1QiEvOeQ)
 - Meetup Link: [Sydney Serverless Meetup 2](http://www.meetup.com/Sydney-Serverless-Meetup-Group/events/232020422/)
+- Slides: [Slides](https://slides.com/em0ney/building-a-serverless-hipchat-plugin)
 
 ### Jobs
 
